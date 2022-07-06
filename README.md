@@ -7,3 +7,5 @@ Kaggle - multilingual toxic
 jigsaw-toxic-comment-train.csv 
 
 jigsaw-unintended-bias-train.csv
+ 
+Hint - You can alter with Batch-size and epochs while running on TPU's(Kaggle)
